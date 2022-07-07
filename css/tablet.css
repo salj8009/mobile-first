@@ -1,0 +1,14 @@
+.container-price-comisiones-vertical {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-cards-content {
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+.plans-container-slider {
+    justify-content: center;
+}
